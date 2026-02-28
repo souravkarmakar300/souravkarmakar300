@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </td>
 <td valign="top" width="40%">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="Coding" width="100%" height="300px">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="Coding" width="100%" height="700px">
 
 </td>
 </tr>
