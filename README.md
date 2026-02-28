@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="Coding" width="400" 
-src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d">
-
 # 💫 About Me:
 💻 Full Stack Web Developer | Laravel Specialist  
 
@@ -49,6 +46,9 @@ I enjoy building scalable web applications, working on dynamic reporting systems
 ## 📚 Learning & Growth
 
 I continuously upgrade my skills and love exploring advanced Laravel concepts, performance optimization, and system design.
+
+<img align="right" alt="Coding" width="400" 
+src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d">
 
 
 ## 🌐 Socials:
