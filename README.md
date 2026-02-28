@@ -18,13 +18,9 @@ Here are some ideas to get you started:
 
 # 💫 About Me
 
-👋 Hey there! I'm **Sourav Karmakar**, a passionate **Full Stack Web Developer** from West Bengal, India, specializing in **Laravel** and modern web technologies.
+👋 Hey there! I'm **Sourav Karmakar**, a passionate **Full Stack Web Developer** from West Bengal, India, specializing in **Laravel** and modern web technologies. Completed my **Diploma & B.Tech in Engineering** from West Bengal, and kickstarted my coding journey through self-learning and relentless practice.
 
-🎓 Completed my **Diploma & B.Tech in Engineering** from West Bengal, and kickstarted my coding journey through self-learning and relentless practice.
-
-🔭 I love building **scalable web applications**, crafting **dynamic reporting systems**, and delivering **real-world business solutions**.
-
-🏢 Previously worked at **Alpinist Infratech Pvt. Ltd.** and **Coactive IT Solutions Pvt. Ltd.**
+🔭 I love building **scalable web applications**, crafting **dynamic reporting systems**, and delivering **real-world business solutions**. Previously worked at **Alpinist Infratech Pvt. Ltd.** and **Coactive IT Solutions Pvt. Ltd.**
 
 📚 Always leveling up — currently exploring advanced **Laravel concepts**, **performance optimization**, and **system design**.
 
