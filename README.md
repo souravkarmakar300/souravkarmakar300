@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 <tr>
 <td valign="top" width="60%">
 
-# 💫 About Me
+# 💫 Hello World!
 
-👋 Hey there! I'm **Sourav Karmakar**, a passionate **Full Stack Web Developer** from West Bengal, India, specializing in **Laravel** and modern web technologies. Completed my **Diploma & B.Tech in Engineering** from West Bengal, and kickstarted my coding journey through self-learning and relentless practice.
+👋 Hey! I'm Sourav Karmakar, a Full Stack Web Developer from West Bengal, India, specializing in Laravel and modern web technologies. I hold a Diploma & B.Tech in Engineering and began my coding journey through self-learning and continuous practice.
 
-🔭 I love building **scalable web applications**, crafting **dynamic reporting systems**, and delivering **real-world business solutions**. Previously worked at **Alpinist Infratech Pvt. Ltd.** and **Coactive IT Solutions Pvt. Ltd.**
+💻 I enjoy building scalable web applications, dynamic reporting systems, and real-world business solutions. Previously worked at Alpinist Infratech Pvt. Ltd. and Coactive IT Solutions Pvt. Ltd.
 
-📚 Always leveling up — currently exploring advanced **Laravel concepts**, **performance optimization**, and **system design**.
+📚 Currently exploring advanced Laravel concepts, performance optimization, and system design.
 
 </td>
 <td valign="top" width="40%">
