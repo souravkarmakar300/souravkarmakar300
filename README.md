@@ -12,42 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-💻 Full Stack Web Developer | Laravel Specialist  
-
-I am a passionate Web Developer from West Bengal, India, with a strong foundation in both frontend and backend technologies. I have completed my Diploma and B.Tech in Engineering from West Bengal and started my coding journey through self-learning and continuous practice.
-
 <img align="right" alt="Coding" width="400" 
 src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d">
 
----
+# 💫 About Me:
+💻 Full Stack Web Developer | Laravel Specialist  
+I am a passionate Web Developer from West Bengal, India, with a strong foundation in both frontend and backend technologies. I have completed my Diploma and B.Tech in Engineering from West Bengal and started my coding journey through self-learning and continuous practice.
 
 ## 🚀 Technical Skills
-
 🌐 **Frontend:** HTML, CSS, JavaScript, jQuery  
-
 🛠 **Backend:** PHP, Laravel  
-
 🗄 **Database:** MySQL, PostgreSQL  
-
 🧩 **CMS:** WordPress  
 
----
-
 ## 💼 Professional Experience
-
 🏢 Worked at **Alpinist Infratech Pvt. Ltd.**  
-
 🏢 Worked at **Coactive IT Solutions Pvt. Ltd.**  
-
----
 
 I enjoy building scalable web applications, working on dynamic reporting systems, and developing real-world business solutions using Laravel and modern web technologies.
 
----
-
 ## 📚 Learning & Growth
-
 I continuously upgrade my skills and love exploring advanced Laravel concepts, performance optimization, and system design.
 
 
