@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 👋 Hey! I'm Sourav Karmakar, a Full Stack Web Developer from West Bengal, India, specializing in Laravel and modern web technologies. I hold a Diploma & B.Tech in Engineering and began my coding journey through self-learning and continuous practice.
 
-💻 I enjoy building scalable web applications, dynamic reporting systems, and real-world business solutions. Previously worked at Alpinist Infratech Pvt. Ltd. and Coactive IT Solutions Pvt. Ltd.
+💻 I enjoy building scalable web applications, dynamic reporting systems, and real-world business solutions. Previously worked at Alpinist Infratech Pvt. Ltd. , Coactive IT Solutions Pvt. Ltd. and Diginamic IT Solutions Pvt. Ltd.
 
 📚 Currently exploring advanced Laravel concepts, performance optimization, and system design.
 
