@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 🛠 **Backend:** PHP, Laravel  
 🗄 **Database:** MySQL, PostgreSQL  
 🧩 **CMS:** WordPress  
-🔐 **Auth:** JWT  
+🔐 **Auth:** JWT, Sanctum
 🧰 **Tools:** Git, GitHub, Apache  
 
 ---
